@@ -1,0 +1,21 @@
+# Internal notes — never publish
+LEGAL-REVIEW.md
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local tooling / secrets
+.env
+.env.*
+*.pem
+*.key
+.credentials/
+node_modules/
+.venv/
+__pycache__/
+_preview-*.png
+*.log
